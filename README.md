@@ -1,6 +1,6 @@
-# 🧠 Ethereum Foundry MCP Project
+# 🧠 Foundry MCP Project
 
-This project is a Model Context Protocol (MCP) server designed to interact with Ethereum Foundry tools. It provides a set of tools and utilities to manage Foundry projects, run tests, build contracts, and more.
+This project is a Model Context Protocol (MCP) server designed to interact with Foundry tools. It provides a set of tools and utilities to manage Foundry projects, run tests, build contracts, and more.
 
 ---
 
