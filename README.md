@@ -1,4 +1,5 @@
 # 🧠 Foundry MCP Project
+[![smithery badge](https://smithery.ai/badge/@lhemerly/foundry-mcp)](https://smithery.ai/server/@lhemerly/foundry-mcp)
 
 This project is a Model Context Protocol (MCP) server designed to interact with Foundry tools. It provides a set of tools and utilities to manage Foundry projects, run tests, build contracts, and more.
 
@@ -30,6 +31,15 @@ src/eth_wh_mcp/      # Source code for the MCP server
 
 ## 🛠️ Installation
 
+### Installing via Smithery
+
+To install Foundry MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@lhemerly/foundry-mcp):
+
+```bash
+npx -y @smithery/cli install @lhemerly/foundry-mcp --client claude
+```
+
+### Manual Installation
 1. Clone the repository:
    ```bash
    git clone <repository-url>
